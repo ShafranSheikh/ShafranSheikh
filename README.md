@@ -8,11 +8,9 @@
 
 ---
 
-### 👨‍💻 About Me
+###👨‍💻 About Me
 
-> I'm a **Software Engineering Undergraduate** at **Coventry University (UK)**. I'm passionate about building full-stack applications using the **.NET ecosystem**, **React**, and **cloud platforms**. I enjoy solving real-world problems and always strive to write clean, maintainable code.
-
-🧠 Always learning | ⚡ Coding for impact | 🎯 Cloud & scalable systems enthusiast
+<div align="center"> <img src="https://img.shields.io/badge/Role-Software%20Engineering%20Undergraduate-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/University-Coventry%20University%20(UK)-purple?style=for-the-badge"/> </div> <p align="center"> I'm a <strong>Software Engineering Undergraduate</strong> at <strong>Coventry University (UK)</strong>. I'm passionate about building full-stack applications using the <strong>.NET ecosystem</strong>, <strong>React</strong>, and <strong>cloud platforms</strong>. I enjoy solving real-world problems and always strive to write clean, maintainable code. </p> <p align="center"> <img src="https://img.shields.io/badge/Focus-Cloud%20&%20Scalable%20Apps-success?style=flat-square"/> <img src="https://img.shields.io/badge/Learning-Always-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Style-Clean%20Code-informational?style=flat-square"/> </p> <p align="center"> 🧠 Always learning | ⚡ Coding for impact | 🎯 Cloud & scalable systems enthusiast </p>
 
 ---
 
