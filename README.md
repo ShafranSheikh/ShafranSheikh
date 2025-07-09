@@ -22,16 +22,18 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,express,javascript,html,css,mongodb,postgres,mysql,aws,github,figma&perline=7"/>
 </p>
 
-
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShafranSheikh&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShafranSheikh&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShafranSheikh&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafranSheikh&layout=compact&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShafranSheikh&theme=tokyonight" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShafranSheikh&theme=tokyonight" width="47%"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShafranSheikh&theme=tokyonight" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShafranSheikh&theme=tokyonight&utcOffset=+5.5" width="47%"/>
 </p>
 
 ---
