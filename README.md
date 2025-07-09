@@ -27,11 +27,11 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShafranSheikh&theme=github"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShafranSheikh&theme=solarized-light" width="47%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShafranSheikh&theme=solarized-light" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShafranSheikh&theme=github" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShafranSheikh&theme=github" width="47%"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShafranSheikh&theme=solarized-light" width="47%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShafranSheikh&theme=solarized-light&utcOffset=+5.5" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShafranSheikh&theme=github" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShafranSheikh&theme=github&utcOffset=+5.5" width="47%"/>
 </p>
 
 ---
