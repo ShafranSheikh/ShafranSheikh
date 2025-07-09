@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Shafran!;Full+Stack+Engineer+%7C+.NET+%26+React+Dev;Creating+Smart+and+Scalable+Solutions+with+C%23%2C+JS+%26+Cloud"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Shafran!;Full+Stack+Engineer+%7C+.NET+%26+React+Dev;Creating+Smart+and+Scalable+Solutions+with+C%23%2C+JS+%26+Cloud"/>
 </p>
 
 <p align="center">
@@ -22,21 +22,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,express,javascript,html,css,mongodb,postgres,mysql,aws,github,figma&perline=7"/>
 </p>
 
----
-
-### 🚀 Projects Worth Checking Out
-
-#### 🎮 [Knight’s Tour Game](https://github.com/ShafranSheikh/Games-of-Algorithms)
-
-> A full-stack chessboard simulation solving the Knight’s Tour problem with React, Node, Express & PostgreSQL using algorithmic strategies.
-
-#### 🏥 [MediCore](https://github.com/ShafranSheikh/Hospital-Management-System)
-
-> Hospital Management System built using MERN Stack, with **JWT**, **Redux**, and **Chart.js** for powerful visualization and security.
-
-#### 👟 [Online Shoe Store](https://github.com/ShafranSheikh/online-shoe-store)
-
-> Sleek e-commerce app featuring **Context API**, **Ant Design**, **MongoDB**, and session-based user login.
 
 ---
 
