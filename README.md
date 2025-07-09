@@ -4,7 +4,7 @@
 
 ## 💻 Tech Stack
 
-- 🧠 **Languages:** JavaScript, C#, SQL
+- 🧠 **Languages:** JavaScript, C#
 - ⚙️ **Frameworks/Libraries:** React.js, Node.js, Express.js, .NET, Redux
 - 🗃️ **Databases:** MongoDB, PostgreSQL, MySQL
 - ☁️ **Cloud & Tools:** AWS, GitHub, Postman, Figma, Chart.js
