@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  Actively looking for roles in <strong>software engineering</strong>, <strong>full-stack development</strong>, and <strong>wider IT</strong> — including QA, support engineering, cloud, and data. If you're hiring, I'd love to talk: <a href="mailto:shafransheikh@gmail.com">shafransheikh@gmail.com</a>
+  Actively looking for roles in <strong>software engineering</strong>, <strong>full-stack development</strong>, and <strong>wider IT</strong> If you're hiring, I'd love to talk: <a href="mailto:shafransheikh@gmail.com">shafransheikh@gmail.com</a>
 </p>
 
 ---
