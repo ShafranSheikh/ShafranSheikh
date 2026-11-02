@@ -1,67 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Shafran!;BSc+%28Hons%29+Computing+Graduate+%7C+Full+Stack+Developer;Building+Scalable+Solutions+with+C%23%2C+.NET%2C+React+%26+Cloud;Open+to+New+Opportunities+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Shafran!;Full+Stack+Engineer+%7C+.NET+%26+React+Dev;Creating+Smart+and+Scalable+Solutions+with+C%23%2C+JS+%26+Cloud"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontAlign=50&fontAlignY=40&fontSize=30&desc=BSc%20%28Hons%29%20Computing%20Graduate%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontAlign=50&fontAlignY=40&fontSize=30&desc=Early%20Career%20IT%20Professional&descAlign=50&descAlignY=60"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BSc%20%28Hons%29%20Computing-Coventry%20University%20%28UK%29-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Graduated-2026-orange?style=for-the-badge"/>
-</div>
-
-<p align="center">
-  I'm a <strong>BSc (Hons) Computing graduate</strong> from <strong>Coventry University (UK)</strong>, building full-stack applications across the <strong>.NET ecosystem</strong>, <strong>React</strong>, and <strong>cloud platforms</strong>. I enjoy turning real-world problems into clean, maintainable, production-ready software.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Scalable%20Apps-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Learning-Always-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Style-Clean%20Code-informational?style=flat-square"/>
-</p>
-
-<p align="center">
-  🧠 Always learning | ⚡ Coding for impact | 🎯 Cloud & scalable systems enthusiast
-</p>
-
----
-
-### 🚀 Open to Opportunities
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Onsite%20%7C%20Hybrid%20%7C%20Remote-blue?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  Actively looking for roles in <strong>software engineering</strong>, <strong>full-stack development</strong>, and <strong>wider IT</strong> If you're hiring, I'd love to talk: <a href="mailto:shafransheikh@gmail.com">shafransheikh@gmail.com</a>
-</p>
+<div align="center"> <img src="https://img.shields.io/badge/Role-Software%20Engineering%20Undergraduate-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/University-Coventry%20University%20(UK)-purple?style=for-the-badge"/> </div> <p align="center"> I'm a <strong>Software Engineering Undergraduate</strong> at <strong>Coventry University (UK)</strong>. I'm passionate about building full-stack applications using the <strong>.NET ecosystem</strong>, <strong>React</strong>, and <strong>cloud platforms</strong>. I enjoy solving real-world problems and always strive to write clean, maintainable code. </p> <p align="center"> <img src="https://img.shields.io/badge/Focus-Cloud%20&%20Scalable%20Apps-success?style=flat-square"/> <img src="https://img.shields.io/badge/Learning-Always-blueviolet?style=flat-square"/> <img src="https://img.shields.io/badge/Style-Clean%20Code-informational?style=flat-square"/> </p> <p align="center"> 🧠 Always learning | ⚡ Coding for impact | 🎯 Cloud & scalable systems enthusiast </p>
 
 ---
 
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,express,javascript,typescript,html,css,tailwind,mongodb,postgres,mysql,docker,aws,git,github,figma&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,express,javascript,html,css,mongodb,postgres,mysql,aws,github,figma&perline=7"/>
 </p>
-
----
-
-### 📂 Featured Projects
-
-<!-- Replace the rows below with your own pinned repos, then pin the same ones on your profile. -->
-
-| Project | What it does | Built with |
-|---|---|---|
-| **[Project Name](https://github.com/ShafranSheikh)** | One line on the problem it solves | .NET, React, PostgreSQL |
-| **[Project Name](https://github.com/ShafranSheikh)** | One line on the problem it solves | Node.js, Express, MongoDB |
-| **[Project Name](https://github.com/ShafranSheikh)** | One line on the problem it solves | C#, ASP.NET Core, AWS |
 
 ---
 
